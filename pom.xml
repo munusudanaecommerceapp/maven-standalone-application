@@ -18,7 +18,7 @@
 	<description>Maven Standalone Application</description>
 
 	<properties>
-		<sonar.host.url>http://65.2.183.138:9000/</sonar.host.url>
+		<sonar.host.url>http://52.66.208.66:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,15 +40,15 @@
 		mvn scm:update -->
 	<!--
 	<scm>
-		<connection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/munusudanaecommerceapp/maven-standalone-application</connection>
+		<developerConnection>scm:git:https://github.com/munusudanaecommerceapp/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application</url>
+		<url>https://github.com/munusudanaecommerceapp/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application/issues</url>
+		<url>https://github.com/munusudanaecommerceapp/maven-standalone-application/issues</url>
 	</issueManagement>
 
 	-->
